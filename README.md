@@ -1,4 +1,4 @@
 # artificial-intelligence
 
 
-1-project art disease
+1-project heart disease
